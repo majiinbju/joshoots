@@ -1,5 +1,5 @@
 <h1 align="center">📸 JOSHOOTS</h1>
----
+
 ![Joshoots – Landing Page](assets/readme/banner.png)
 > website built to showcase Josh's cinematographic and editorial work in film<br>
 **[visit website](https://joshoots.info)**
