@@ -2,7 +2,7 @@
 
 ![Joshoots – Landing Page](assets/readme/banner.png)
 ---
-##[visit website](https://joshoots.info)
+## [visit website](https://joshoots.info)
 
 > website built to showcase Josh's cinematographic and editorial work in film
 ---
