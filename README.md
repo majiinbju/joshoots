@@ -6,7 +6,7 @@
 ---
 ## `📹 ABOUT`
 ![Joshoots – About Page](assets/readme/about.png)
-> josh is a cinematographer based in bombay. to keep costs low, the entire website was built using JSON as a CMS, making it easily editable at any given time
+> josh is a cinematographer based in bombay. to keep costs low, the entire website was built using JSON as a CMS, making it easily editable at any given time. the entire website is responsive for all screen sizes.
 ---
 ### `⚜️` `DESIGN + DEV`
 > designed by in sketch<br>
