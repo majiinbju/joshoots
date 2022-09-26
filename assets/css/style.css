@@ -289,27 +289,3 @@ figure:hover > .captionBox > figcaption {
   }
   
 }
-
-@media screen and (max-height: 50rem) and (orientation: landscape) {
-
-  body {
-    font-size: 1.25rem;
-  }
-
-  figcaption {
-    opacity: 1;
-  }
-
-  .logo {
-    font-size: 1.75rem;
-  }
-
-  #projects {
-    grid-template-columns: repeat(1, 1fr);
-  }
-
-  #aboutJosh {
-    grid-template-columns: repeat(1, 1fr);
-  }
-
-}
